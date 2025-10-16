@@ -22,7 +22,7 @@ It’s 2025, and Artificial Intelligence has become a major part of how we build
 Tools like ChatGPT, GitHub Copilot, and DeepSeek can generate code, suggest fixes, and help developers work faster.
 AI clearly boosts productivity but it also brings serious ethical concerns, including bias, privacy, copyright, and accountability.
 
-[](https://apnews.com/article/business-apple-inc-artificial-intelligence-00c1dab0a727456df9e5ef9c6160c792)
+(https://apnews.com/article/business-apple-inc-artificial-intelligence-00c1dab0a727456df9e5ef9c6160c792)
 
 2. The Google AI Ethics Controversy
 
@@ -40,21 +40,20 @@ When AI learns from that data, it may reproduce those same biases leading to unf
 
 4. Privacy 
 
-Large language models are trained on massive datasets, sometimes including private or copyrighted materials.
+Large language models are trained on massive datasets.
 People might not even know their information was used in training.
 This leads to privacy concerns about data protection and consent.
 
 5. Copyright
    
-At the same time, copyright becomes a serious issue.
+Copyright becomes a serious issue.
 AI systems often learn from existing online text, code, or art without asking for permission.
-So when AI generates new outputs, it might accidentally reuse parts of someone else’s work raising questions about ownership and originality.
+So when AI generates new outputs, it might accidentally reuse parts of someone else’s work.
 
 7. Accountability and Transparency
 
 Finally, we face the problem of accountability.
 If AI-generated code causes harm such as bugs, security flaws, or misinformation who is responsible?
-Is it the developer who used the AI, the company that built it, or the AI system itself?
 Currently, there’s no clear answer.
 
 In conclusion, AI is transforming software development by making it faster and smarter, but it also challenges us to think carefully about ethics, fairness, and transparency.
