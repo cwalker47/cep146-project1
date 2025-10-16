@@ -46,11 +46,12 @@ People might not even know their information was used in training.
 This leads to privacy concerns about data protection and consent.
 
 5. Copyright
+   
 At the same time, copyright becomes a serious issue.
 AI systems often learn from existing online text, code, or art without asking for permission.
-So when AI generates new outputs, it might accidentally reuse parts of someone else’s work — raising questions about ownership and originality.
+So when AI generates new outputs, it might accidentally reuse parts of someone else’s work raising questions about ownership and originality.
 
-6. Accountability and Transparency
+7. Accountability and Transparency
 
 Finally, we face the problem of accountability.
 If AI-generated code causes harm such as bugs, security flaws, or misinformation who is responsible?
@@ -64,5 +65,4 @@ Final Question:
 If we use AI tools and they generate code that causes harm, who should be responsible the developer, the company that built the AI, or the AI system itself?
  
 
-Final questions 
-If we use AI tools and it generates codes that causes harm who should be responsible? The developers? The company who built the ai? 
+
