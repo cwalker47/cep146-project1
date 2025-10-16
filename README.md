@@ -13,48 +13,55 @@ Rubric and project outline: https://github.com/seneca-cep146/cep146/blob/main/pr
 
 
 
-It’s 2025 AI has become a huge part of software development. Tools like ChatGPT, Copilot and DeepSeek can generate code and suggesting fixes on code resulting in boost in productivity, while AI just seems like a great tool that is always here to help us it also raises important ethical concerns including bias data, privacy copyright and accountability. 
+AI Ethics in Software Development (2025)
+1. Introduction
 
- 
+Hello everyone, today our topic is AI Ethics in Software Development.
+
+It’s 2025, and Artificial Intelligence has become a major part of how we build software.
+Tools like ChatGPT, GitHub Copilot, and DeepSeek can generate code, suggest fixes, and help developers work faster.
+AI clearly boosts productivity — but it also brings serious ethical concerns, including bias, privacy, copyright, and accountability.
+
 [](https://apnews.com/article/business-apple-inc-artificial-intelligence-00c1dab0a727456df9e5ef9c6160c792)
 
-Google’s AI ethics controversy 
+2. The Google AI Ethics Controversy
 
-Timnit Gebru, an Ai ethics researcher at Google, was forced out of the company after disagreement about a research paper about ethical risks in large language models. 
+A well-known example is the Google AI ethics controversy.
+Researcher Timnit Gebru was forced to leave Google after publishing a paper about the ethical risks of large language models.
+Her paper discussed bias and fairness in data, and the lack of transparency and accountability.
+She warned that AI systems might reinforce stereotypes or spread misinformation — which could impact the fairness and reliability of software created with AI assistance.
 
-Her paper discussed  
+3. Bias and Fairness
 
-the bias and fairness of data in AI models 
+AI systems learn from data collected across the internet.
+However, online data often includes biased or unfair patterns, such as stereotypes or unbalanced language.
+When AI learns from that data, it may reproduce those same biases — leading to unfair or harmful code suggestions.
+For example, biased code or variable names could appear without the developer realizing it.
+This raises a key question: Can we fully trust AI-generated code if its training data already contains bias?
 
-transparency and accountability in AI models 
+4. Privacy 
 
+Large language models are trained on massive datasets, sometimes including private or copyrighted materials.
+People might not even know their information was used in training.
+This leads to privacy concerns about data protection and consent.
 
-Bias data  
+5. Copyright
+At the same time, copyright becomes a serious issue.
+AI systems often learn from existing online text, code, or art without asking for permission.
+So when AI generates new outputs, it might accidentally reuse parts of someone else’s work — raising questions about ownership and originality.
 
-AI models learn from existing data, which may include biased patterns or language. This can lead to unfair code suggestions or reinforcement of stereotypes. 
+6. Accountability and Transparency
 
-Timnit Gebru’s latest paper warned large language model own system might reinforce stereotypes or misinformation. 
+Finally, we face the problem of accountability.
+If AI-generated code causes harm — such as bugs, security flaws, or misinformation — who is responsible?
+Is it the developer who used the AI, the company that built it, or the AI system itself?
+Currently, there’s no clear answer.
 
+In conclusion, AI is transforming software development by making it faster and smarter, but it also challenges us to think carefully about ethics, fairness, and transparency.
 
-Privacy 
+Final Question:
 
-Large language models are trained on data from internet these can sometimes include private or copy righted materials. 
-
-Training data for AI models can also include sensitive or personal / information without notice 
-
-
-Copyright 
-
-AI systems often use online text, code, or art without explicit permission. 
-
- 
-
-Accountability and Transparency 
-
-When AI systems cause harm (e.g misinformation inefficient or outdated generated code) who is responsible? 
-
-It’s unclear who is responsible when AI-generated code causes bugs, security flaws, or ethical issues. 
-
+If we use AI tools and they generate code that causes harm, who should be responsible — the developer, the company that built the AI, or the AI system itself?
  
 
 Final questions 
