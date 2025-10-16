@@ -36,8 +36,7 @@ She warned that AI systems might reinforce stereotypes or spread misinformation 
 AI systems learn from data collected across the internet.
 However, online data often includes biased or unfair patterns, such as stereotypes or unbalanced language.
 When AI learns from that data, it may reproduce those same biases leading to unfair or harmful code suggestions.
-For example, biased code or variable names could appear without the developer realizing it.
-This raises a key question: Can we fully trust AI-generated code if its training data already contains bias?
+
 
 4. Privacy 
 
