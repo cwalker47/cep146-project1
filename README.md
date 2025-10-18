@@ -11,6 +11,8 @@ Rubric and project outline: https://github.com/seneca-cep146/cep146/blob/main/pr
 - Minh Tuan Ho
 - Cozmo Walker
 
+There is our team's youtube link
+https://youtu.be/EX6e3TBzumg
 
 
 AI Ethics in Software Development (2025)
